@@ -18,5 +18,5 @@
 ### 🛠️Ferramentas
 <div>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode"/></a></p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,intelij"/></a></p>
 </div>
