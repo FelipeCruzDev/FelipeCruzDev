@@ -9,8 +9,14 @@
 </div>
 
 
-### 🛠️Tech Stack
+### 🛠️Tecnologias
 <div>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,postgres,github,git,vscode"/></a></p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,postgres"/></a></p>
+</div>
+
+### 🛠️Ferramentas
+<div>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,intellij,vscode"/></a></p>
 </div>
